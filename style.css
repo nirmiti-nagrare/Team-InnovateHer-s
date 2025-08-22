@@ -15,8 +15,8 @@ header h1 {
 header nav {
     /* To make nav links appear side-by-side */
     display: flex;
-    justify-content: space-evenly;
-    gap: 24 px; /* Adds space between links */
+    justify-content: space-between;
+    gap: 24px; /* Adds space between links */
 }
 
 header nav a {
