@@ -251,11 +251,11 @@ body {
     cursor: pointer;
 }
 #backform{
-    background-color: rgb(244, 231, 214);
+    background-color: rgb(244, 231,214);
     text-align: center;
     padding:20px;
     margin:20px auto;
     max-width:600px;
     border-radius:10px;
-    
+
 }
